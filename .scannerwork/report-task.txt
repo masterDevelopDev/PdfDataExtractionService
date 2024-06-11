@@ -1,0 +1,6 @@
+projectKey=PdfDataExtractionService
+serverUrl=http://localhost:9000
+serverVersion=10.5.1.90531
+dashboardUrl=http://localhost:9000/dashboard?id=PdfDataExtractionService
+ceTaskId=dbe23ac7-1683-4a60-a5f5-725e160b695b
+ceTaskUrl=http://localhost:9000/api/ce/task?id=dbe23ac7-1683-4a60-a5f5-725e160b695b
